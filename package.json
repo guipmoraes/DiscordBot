@@ -22,7 +22,7 @@
   "dependencies": {
     "@discordjs/opus": "0.3.2",
     "@discordjs/voice": "^0.10.0",
-    "axios": "0.21.2",
+    "axios": "1.7.8",
     "bufferutil": "^4.0.1",
     "cheerio": "^1.0.0-rc.11",
     "d20": "^1.4.1",
